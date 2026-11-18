@@ -4,7 +4,7 @@
 #### Integrantes: 
 - João Victor
 - Luís Henrique
-- Mateus Guilherme
+- Jonas Daniel
 - Paulo Freire
 - Richard Manoel
 
